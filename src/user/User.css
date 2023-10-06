@@ -1,0 +1,32 @@
+.userCard{
+    margin-top: 2vw;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    width: 30vw;
+    height: 7vw;
+    background-color: rgb(255, 255, 255);
+
+    border-radius: 3.5vw;
+}
+
+
+.ava{
+    margin-left: 0vw;
+
+    width: 7vw;
+    height: 7vw;
+    background-color: black;
+
+    border-radius: 50%;
+}
+.information{
+    margin-left: 2.2vw;
+    width: 18vw;
+    height: 7vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

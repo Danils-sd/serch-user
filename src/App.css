@@ -1,0 +1,21 @@
+.App {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: Roboto;
+    background-color: rgb(151, 243, 243);
+    height: 100vw;
+}
+
+.user-name{
+    margin-top: 9vw;
+
+    width: 28vw;
+    height: 3vw;
+    font-family: Roboto;
+    padding-left: 1vw;
+
+    font-size: 1.3vw;
+    border-radius: 2vw;
+    border: 0.1vw #979797 solid;
+}
